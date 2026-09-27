@@ -1,27 +1,32 @@
-# Screenshot plan
+# Product evidence library
 
-Do not publish client artwork without permission.
+These screenshots document the working Tapestry Crochet Studio product for the public product-management case study.
 
-Recommended screenshots for the public repository and portfolio:
+## Workflow evidence
 
-1. Project home / project library
-2. Artwork import and gauge controls
-3. Generated editable chart
-4. Manual grid editing
-5. Garment panel workspace
-6. Front/back/sleeve project navigation
-7. Crochet intelligence / row instructions
-8. Yarn library and shopping plan
-9. Production mode
-10. Business workflow / order stage
-11. Flat client preview
-12. Export options
+- `Home screen.png` - project workspace / library
+- `Create project 1.png` through `Create project 8.png` - project setup flow
+- `Imported artwork.png` - source artwork inside the project
+- `Image-to-grid conversion.png` - generated crochet grid
+- `Background removal controls.png` - recoverable automation controls
+- `Garment designer.png` - garment-aware design workspace
+- `Front panel.png` - front garment panel
+- `Back panel.png` - back garment panel
+- `Left sleeve.png` - left sleeve panel
+- `Right sleeve.png` - right sleeve panel
+- `Written instructions.png` - generated row instructions
+- `Production mode_full pattern.png` - production view
+- `Production mode_row focus.png` - active-row production view
+- `Production mode_page bottom.png` - production controls / lower page
+- `Yarn intelligence.png` through `Yarn intelligence 3.png` - yarn planning and matching
+- `Client preview pdf.png` - flat client approval preview
+- `Export page 1.png` and `Export page 2.png` - output / export workflow
+- `Business dashboard.png` - business workflow
+- `Business orders.png` - order workflow
+- `Invoice.png` - commercial output
 
-## Capture rules
+## Public-sharing rules
 
-- Use a synthetic or personally owned design.
-- Hide client names, email addresses, prices and payment data unless intentionally public.
-- Use the same demo project across screenshots so the story feels coherent.
-- Capture at a consistent browser/window size.
-- Prefer the real UI over mock-ups.
-- Add a short caption explaining the product decision demonstrated by each screenshot.
+Only publish screenshots containing artwork you own or have permission to show. Keep client names, email addresses, payment information and private commercial details out of public evidence unless intentionally disclosed.
+
+For the portfolio site, the selected evidence prioritises product decisions over feature volume: image-to-grid, garment-aware panels, recoverable automation, production order, yarn intelligence and flat client approval.

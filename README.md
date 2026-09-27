@@ -31,13 +31,38 @@ The product began as an internal tool for a real crochet business and evolved th
 5. Core production stays local before cloud dependencies are introduced.
 6. SaaS features are deferred until the single-user production workflow is validated.
 
+
+## Product evidence
+
+The screenshots below are from the working product and show how the workflow evolved beyond image conversion.
+
+### Artwork to crochet grid
+
+![Artwork converted into a crochet-ready grid](screenshots/Image-to-grid%20conversion.png)
+
+### Garment-aware design
+
+![Garment designer](screenshots/Garment%20designer.png)
+
+### Production mode
+
+![Row-focused production mode](screenshots/Production%20mode_row%20focus.png)
+
+### Client approval
+
+![Flat client preview](screenshots/Client%20preview%20pdf.png)
+
+More product evidence is available in the [`screenshots/`](screenshots/) folder.
+
 ## Current direction
 
 The current focus is not feature volume. It is proving that the product reliably helps makers move from artwork to production-ready panels, complete real projects, and return for another project.
 
 ## Portfolio case study
 
-The full product-management case study lives on Ivy's portfolio site. Add the public URL here after deployment.
+The full product-management case study lives on Ivy's portfolio site:
+
+**[Read the Tapestry Crochet Studio case study](https://ivy-portfolio.ivyndiomu.workers.dev/work/tapestry-crochet-studio/)**
 
 ## Source-code note
 
