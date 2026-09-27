@@ -1,0 +1,21 @@
+{
+  "version": "portfolio-example",
+  "name": "Sample Anime Sweater",
+  "clientName": "Sample Client",
+  "garment": {
+    "type": "sweater",
+    "variant": "long sleeve"
+  },
+  "gauge": {
+    "stitches": 18,
+    "rows": 16,
+    "measurementCm": 10
+  },
+  "panels": [
+    {"name": "Front", "kind": "front", "mode": "artwork", "status": "pattern-ready"},
+    {"name": "Back", "kind": "back", "mode": "blank", "status": "not-started"},
+    {"name": "Left sleeve", "kind": "sleeve", "mode": "linked", "status": "planned"},
+    {"name": "Right sleeve", "kind": "sleeve", "mode": "linked", "status": "planned"}
+  ],
+  "note": "Synthetic portfolio example. This is not a customer project file."
+}
